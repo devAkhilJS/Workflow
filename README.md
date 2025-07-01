@@ -68,7 +68,7 @@ This n8n workflow automatically sends users their daily weather updates and pend
 - **Data used**:
   - `User_name`
   - Weather (temp, city, description)
-  - Task list from Sheet2
+  - Task list from Sheet1
 - **Output**:
   - `email`, `subject`, `message`, etc.
 
