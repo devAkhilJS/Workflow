@@ -94,7 +94,7 @@ It loops through each user, checks if the City field is filled.
 If city is missing, it stops with an error; otherwise, it fetches coordinates via OpenWeatherMap Geo API.
 It then retrieves weather data using the coordinates and fetches user-specific tasks from another sheet.
 The Code node combines weather and task info into a personalized email message.
-Finally, the Gmail node sends this email to the user with their daily weather and task update..
+Finally, the Gmail node sends this email to the user with their daily weather and task update...
 
 
 ---
