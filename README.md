@@ -64,7 +64,6 @@ This n8n workflow automatically sends users their daily weather updates and pend
 
 
 
----
 
 ### 9. **Code**
 - **Type**: Code Node (JavaScript)
@@ -95,7 +94,8 @@ Finally, the Gmail node sends this email to the user with their daily weather an
 
 
 ---
-## Worflow :
+## Worflow :![Image](https://github.com/user-attachments/assets/46ec31d6-7172-48b5-a8d2-5888f82ebc11)
+---
 ## Workflow video link : https://drive.google.com/file/d/1M1WlZCPU2B0KkIwzAp3XJzbIaB4tWA3g/view?usp=sharing
 ---
 
