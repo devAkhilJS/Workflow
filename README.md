@@ -59,11 +59,8 @@ This n8n workflow automatically sends users their daily weather updates and pend
 - **Type**: HTTP Request
 - **Work**: Fetches the current weather using latitude and longitude coordinates.
 - **API Used**: `https://api.openweathermap.org/data/2.5/weather`
-**Process**: After getting geo coodinates , First we have to go open weather map  API to get the temperature coordinates so we click on surrent weather section in which there is a option of open weather map api using the city name so we click on that to get the base api so,  we have to build a account on open weather map API to generate a API key in the account section there is a option of my API key where we can simply create a API after creating API key it take time to activate. The API key is activate after approximate 5 to 8 hours after the activated API key we get the base open weather map  co-ordinate API with the queries with simply put all the detail in http node to generate a specific  coordinates to get the data of this different cities. video link : https://youtu.be/MdIfZJ08g2I?si=dNKIbneXf13cr0lG
+- **Process**: After getting geo coodinates , First we have to go open weather map  API to get the temperature coordinates so we click on surrent weather section in which there is a option of open weather map api using the city name so we click on that to get the base api so,  we have to build a account on open weather map API to generate a API key in the account section there is a option of my API key where we can simply create a API after creating API key it take time to activate. The API key is activate after approximate 5 to 8 hours after the activated API key we get the base open weather map  co-ordinate API with the queries with simply put all the detail in http node to generate a specific  coordinates to get the data of this different cities. video link : https://youtu.be/MdIfZJ08g2I?si=dNKIbneXf13cr0lG
 ---
-
-
-
 
 ### 9. **Code**
 - **Type**: Code Node (JavaScript)
