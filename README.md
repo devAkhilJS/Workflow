@@ -89,6 +89,9 @@ If city is missing, it stops with an error; otherwise, it fetches coordinates vi
 The Code node combines weather and task info into a personalized email message.
 Finally, the Gmail node sends this email to the user with their daily weather and task update...
 
+---
+## Demo data
+[B4.xlsx](https://github.com/user-attachments/files/21022254/B4.xlsx)
 
 ---
 ## Worflow :![Image](https://github.com/user-attachments/assets/46ec31d6-7172-48b5-a8d2-5888f82ebc11)
