@@ -94,7 +94,13 @@ Finally, the Gmail node sends this email to the user with their daily weather an
 [B4.xlsx](https://github.com/user-attachments/files/21022254/B4.xlsx)
 
 ---
-## Worflow :![Image](https://github.com/user-attachments/assets/46ec31d6-7172-48b5-a8d2-5888f82ebc11)
+## updated data
+[B4 (2).xlsx](https://github.com/user-attachments/files/21038859/B4.2.xlsx)
+
+![Image](https://github.com/user-attachments/assets/b8a7376d-9ae0-40d6-a52a-edf53e35c2d1)
+---
+## Worflow :
+![Image](https://github.com/user-attachments/assets/b8a7376d-9ae0-40d6-a52a-edf53e35c2d1)
 ---
 ## Workflow video link : https://drive.google.com/file/d/1M1WlZCPU2B0KkIwzAp3XJzbIaB4tWA3g/view?usp=sharing
 ---
